@@ -19,7 +19,7 @@ export default function HeroSection() {
                 </p>
             </div>
 
-            <div className="relative w-full gif-container md:w-1/2 flex justify-center">
+            <div className="relative w-full gif-container md:w-1/2 flex justify-center mb-10">
                 <img
                     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBtNmh5OXhmcDM4bHg2NnN5YWZ2anZpanI1NWJidnJvbWt2cXU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owyp2SViuDIGh8YoM/giphy.gif"
                     alt="Tech for Education GIF"
@@ -27,8 +27,8 @@ export default function HeroSection() {
                 />
                
             </div>
-            <p className="text-xl sm:text-2xl md:text-3xl mt-10 text-blue-600 font-semibold text-center">
-                    The Hub for Personalised Learning
+            <p className="text-6xl lg:text-8xl justify-center mt-10 pt-10 font-semibold text-blue-800 text-center">
+                    The Hub for <br/><span className=' bg-clip-text text-transparent bg-gradient-to-r from-black to-blue-400 font-montserrat'>Personalised</span> Learning
                 </p>
         </section>
     );
