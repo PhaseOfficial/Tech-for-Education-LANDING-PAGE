@@ -13,7 +13,7 @@ import Marquee from 'react-fast-marquee';
 const LogoMarquee = () => {
   return (
     <div className='mt-10'>
-    <h2 className="text-blue-800 font-bold mb-4  text-2xl">Institutions we interacted with</h2>
+    <h2 className="text-blue-800 font-bold mb-4  text-2xl">Institutions we have interacted with</h2>
     <Marquee>
     <div className="relative overflow-hidden py-4">
       <div className="flex items-center space-x-8  w-[200%]">

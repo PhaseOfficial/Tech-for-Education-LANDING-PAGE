@@ -74,7 +74,7 @@ const About = () => {
         <h3 className="text-xl font-bold">Winston Mambongo</h3>
         <p className="text-gray-600">Chief Executive Officer</p>
         <a
-          href="https://www.linkedin.com/in/christopher-vutete-603b8166/"
+          href="https://www.linkedin.com/in/winston-j-mambongo-43b27a288/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-800 mt-2 inline-block"
@@ -128,7 +128,7 @@ const About = () => {
         <h3 className="text-xl font-bold">Valentine Ganyaupfu</h3>
         <p className="text-gray-600">Chief Commercial Officer</p>
         <a
-          href="https://www.linkedin.com/in/"
+          href="https://www.linkedin.com/in/valentine-ganyaupfu-b50b2722a/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-800 mt-2 inline-block"

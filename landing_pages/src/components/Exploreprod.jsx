@@ -49,9 +49,9 @@ const Exploreprod = () => {
                 <div className="bg-card rounded-lg shadow-lg overflow-hidden flex flex-col items-center transform transition-transform duration-300 hover:scale-105">
                     <FaDatabase className='text-9xl' />
                     <div className="p-4">
-                        <h3 className="text-lg font-semibold">Data Analytics</h3>
+                        <h3 className="text-lg font-semibold">Learning Analytics</h3>
                         <p className="text-muted-foreground">
-                            Get insights on your learning data to make informed decisions.
+                            Get insights on your learning progress  to make informed decisions.
                         </p>
                         <a
                             href="#"
